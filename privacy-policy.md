@@ -34,11 +34,11 @@ For the purposes of this Privacy Policy:
     more of the shares, equity interest or other securities entitled to vote
     for election of directors or other managing authority.
 
-  * Application refers to Boss Death Counter, the software program provided by
+  * Application refers to Boss Death Counter and MediaExt, the software programs provided by
     the Company.
 
   * Company (referred to as either "the Company", "We", "Us" or "Our" in this
-    Agreement) refers to Boss Death Counter.
+    Agreement) refers to Boss Death Counter and MediaExt.
 
   * Country refers to: Turkey
 
