@@ -1,7 +1,7 @@
 Privacy Policy  
 ==============
 
-Last updated: September 05, 2023
+Last updated: February 06, 2025
 
 This Privacy Policy describes Our policies and procedures on the collection,
 use and disclosure of Your information when You use the Service and tells You
@@ -34,11 +34,11 @@ For the purposes of this Privacy Policy:
     more of the shares, equity interest or other securities entitled to vote
     for election of directors or other managing authority.
 
-  * Application refers to Boss Death Counter and MediaExt, the software programs provided by
+  * Application refers to Boss Death Counter, MediaExt and Chart AI, the software programs provided by
     the Company.
 
   * Company (referred to as either "the Company", "We", "Us" or "Our" in this
-    Agreement) refers to Boss Death Counter and MediaExt.
+    Agreement) refers to Boss Death Counter, MediaExt and Chart AI.
 
   * Country refers to: Turkey
 
