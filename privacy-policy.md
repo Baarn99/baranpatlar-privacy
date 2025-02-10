@@ -4,7 +4,7 @@ Effective Date: [10/02/2025]
 
 Thank you for using our apps. Your privacy is important to us, and this Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our applications.
 
-*1. Information We Collect*
+1. Information We Collect
 
 We may collect the following types of information from users:
 
